@@ -85,6 +85,11 @@ This repository is intentionally focused on documentation and technical presenta
 
 The goal is to make the engineering work visible without exposing the private source code.
 
+## Documentation
+
+- [Architecture](docs/architecture.md)
+- [Technical Decisions](docs/decisions.md)
+
 ## Contact
 
 GitHub: [JaviGarcia1995](https://github.com/JaviGarcia1995)  
