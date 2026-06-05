@@ -89,6 +89,7 @@ The goal is to make the engineering work visible without exposing the private so
 
 - [Architecture](docs/architecture.md)
 - [Technical Decisions](docs/decisions.md)
+- [AI Usage](docs/ai-usage.md)
 
 ## Contact
 
